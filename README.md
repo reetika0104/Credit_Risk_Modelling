@@ -22,7 +22,11 @@ Credit risk modeling is important for financial institutions. It represents the 
 
 ## Pipeline  
 
-<img src= ".pipeline_sum.jpg">
+<img src=".pipeline_sum.jpg">
+
+## Background
+
+Credit risk modeling is important for financial institutions. It represents the risk of borrower not being able to pay back the loan amount, credit card or other types of loans. In some cases, borrowers can pay only partial of the amount and the principal amount and interest amount are not paid. Both statistics and machine learning play an important role in handling big data and provide statistical modeling. In the recession of 2008,
 
 ## Project
 
@@ -44,11 +48,11 @@ Please note that this notebook includes my revisions/additions to the credit ris
 
 ## Key documents
 	
-Notebooks shown below: 
-L01 - A preprocessing notebook and feature engineering
-L02 - A notebook on modelling probability of default (PD), delivering scorecard and calculating cutoff rate   
-L03 - A notebook on modelling loss given default (LGD), exposure at default (EAD) and expected loss (EL)  
-L04 - A notebook on checking population stability index  
+Notebooks shown below:  
+**L01** - A preprocessing notebook and feature engineering  
+**L02** - A notebook on modelling probability of default (PD), delivering scorecard and calculating cutoff rate   
+**L03** - A notebook on modelling loss given default (LGD), exposure at default (EAD) and expected loss (EL)  
+**L04** - A notebook on checking population stability index  
 
 ## Datasets
 
@@ -67,7 +71,7 @@ Following models are trained for the use in our case
 
 2.  Loss given default (LGD)  
 **Model - Stage/step 1**: Logistic regression  
-**Metrics**: Accuracy: 0.595 | Area under ROC: 0.640 > 0.50  
+**Metrics**: Accuracy: 0.572 | Area under ROC: 0.684 > 0.50  
 **Model - Stage/step 2**: Linear regression  
 **Metric**: Accuracy: 0.777
 
@@ -84,7 +88,7 @@ Following models are trained for the use in our case
 3. Models on loss given default (LGD), exposure at default (EAD) and expected loss (EL)  
 4. Schema to check the population stability index with the recent data
 
-Please note that, in this project, the methodology in the lecture notes of Credit Risk Modeling in Python by N Georgiev is followed.
+*Please note that, in this project, the methodology in the lecture notes of Credit Risk Modeling in Python by N Georgiev is followed.*
 
 ## Key documents
 	
