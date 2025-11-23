@@ -199,7 +199,7 @@ Credit_Risk_Modelling/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Jayom5797/Credit_Risk_Modelling.git
+git clone https://github.com/reetika0104/Credit_Risk_Modelling.git
 cd Credit_Risk_Modelling
 
 # 2. Install dependencies
@@ -249,13 +249,13 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 ## 👤 Author
 
 <p align="center">
-  <img src="https://github.com/Jayom5797.png" width="120" style="border-radius: 50%;" alt="Om Singh"/>
+  <img src="https://github.com/reetika0104.png" width="120" style="border-radius: 50%;" alt="Om Singh"/>
 </p>
 
 <p align="center">
   <strong>Om Singh</strong><br/>
-  <a href="https://github.com/Jayom5797">
-    <img src="https://img.shields.io/badge/GitHub-Jayom5797-181717?logo=github" alt="GitHub"/>
+  <a href="https://github.com/reetika0104">
+    <img src="https://img.shields.io/badge/GitHub-reetika0104-181717?logo=github" alt="GitHub"/>
   </a>
 </p>
 
