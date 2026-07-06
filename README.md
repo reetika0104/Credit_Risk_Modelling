@@ -253,7 +253,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 </p>
 
 <p align="center">
-  <strong>Om Singh</strong><br/>
+  <strong>Reetika Yadav</strong><br/>
   <a href="https://github.com/reetika0104">
     <img src="https://img.shields.io/badge/GitHub-reetika0104-181717?logo=github" alt="GitHub"/>
   </a>
